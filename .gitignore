@@ -1,5 +1,6 @@
 Dataset/
-
+Extracted_Values
+Extracted_Values_Bigger_Confidence
 # Compiled python files
 *.pyc
 __pycache__/
