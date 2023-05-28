@@ -1,1 +1,24 @@
 Dataset/
+Extracted_Values
+Extracted_Values_Bigger_Confidence
+# Compiled python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Conda environment
+env/
+conda_env.yml
+
+# TensorFlow checkpoints and saved models
+model/
+checkpoint/
+*.index
+*.data-*
+
+# macOS system files
+.DS_Store
+
+Models
